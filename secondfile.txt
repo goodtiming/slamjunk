@@ -1,0 +1,1 @@
+This is the second file added on branch "feature" by goodtiming, while slambonium has already commited one change to master branch of firstfile.txt. So goodtiming local repo master is behind upstream master.
