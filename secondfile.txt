@@ -1,3 +1,6 @@
 This is the second file added on branch "feature" by goodtiming, while slambonium has already commited one change to master branch of firstfile.txt. So goodtiming local repo master is behind upstream master.
 
 Adding this second line by goodtiming on local repo in "feature" branch.
+
+Adding this line as user slambonium from local forked repo.
+
