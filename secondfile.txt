@@ -2,7 +2,8 @@ This is the second file added on branch "feature" by goodtiming, while slamboniu
 
 Adding this second line by goodtiming on local repo in "feature" branch.
 
+Adding this line in local forked repo of goodtiming.
+
 Adding this line as user slambonium from local forked repo.
 
-Adding this on new branch "iss53" as slambonium in local repo.
 
