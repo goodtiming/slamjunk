@@ -5,3 +5,6 @@ Adding this line from local rtstewart-slamjunk repo.
 Adding this line to create a commit conflict resulting from change to this file in new "newfeature" branch already created.
 
 This line added by rtstewart on local new branch "testfeature".
+
+Appending this to second file.txt locally and pushing to add to the pull request
+
