@@ -2,4 +2,5 @@ This is the second file added on branch "feature" by goodtiming, while slamboniu
 
 Adding this line from local rtstewart-slamjunk repo.
 
+Adding this line to create a commit conflict resulting from change to this file in new "newfeature" branch already created.
 
